@@ -1,1 +1,3 @@
-# Basic__Score-to-Grade-Calculator
+# Grading Program
+
+This basic grading program helps to classify the scores of the scholars to specific grades....
